@@ -1,0 +1,26 @@
+.table {
+    height: 300px;
+    width: 300px;
+  }
+  body{
+    text-align: center;
+  }
+  h1 {
+    color: blue;
+  }
+  li {
+    text-align: center;
+    font-size: 2rem;
+    color: rgb(8, 116, 8)
+  }
+  .table-container {
+    display: flex;
+    justify-content: center;
+  }
+  /* body {
+    text-align: center;
+  } */
+  td {
+    text-align: center;
+    font-size: xx-large;
+  }
